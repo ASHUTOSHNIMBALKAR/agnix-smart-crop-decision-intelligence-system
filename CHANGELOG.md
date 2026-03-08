@@ -3,3 +3,4 @@
 [2026-03-05T14:20:00+05:30] feat(ml): download and explore Crop Recommendation Dataset
 [2026-03-06T16:45:00+05:30] feat(ml): implement train_model.py with GaussianNB classifier
 [2026-03-07T09:00:00+05:30] feat(ml): achieve 99.09% accuracy on test split
+[2026-03-08T11:30:00+05:30] feat(ml): serialize trained model to model.pkl using pickle
