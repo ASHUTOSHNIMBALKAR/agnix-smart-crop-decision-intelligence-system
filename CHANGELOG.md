@@ -6,3 +6,4 @@
 [2026-03-08T11:30:00+05:30] feat(ml): serialize trained model to model.pkl using pickle
 [2026-03-09T15:00:00+05:30] feat(ml): create Flask app.py with /predict POST endpoint
 [2026-03-10T10:10:00+05:30] feat(ml): add CORS support to Flask microservice
+[2026-03-11T13:45:00+05:30] feat(ml): return top-3 crop predictions with confidence scores
