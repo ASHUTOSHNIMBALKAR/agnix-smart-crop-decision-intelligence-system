@@ -7,3 +7,4 @@
 [2026-03-09T15:00:00+05:30] feat(ml): create Flask app.py with /predict POST endpoint
 [2026-03-10T10:10:00+05:30] feat(ml): add CORS support to Flask microservice
 [2026-03-11T13:45:00+05:30] feat(ml): return top-3 crop predictions with confidence scores
+[2026-03-12T09:30:00+05:30] test(ml): add test_probs.py to verify model probabilities
