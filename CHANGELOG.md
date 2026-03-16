@@ -9,3 +9,4 @@
 [2026-03-11T13:45:00+05:30] feat(ml): return top-3 crop predictions with confidence scores
 [2026-03-12T09:30:00+05:30] test(ml): add test_probs.py to verify model probabilities
 [2026-03-14T11:00:00+05:30] chore: add ml-service venv to .gitignore
+[2026-03-16T10:00:00+05:30] feat(backend): scaffold Node.js + Express backend with package.json
