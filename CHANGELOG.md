@@ -10,3 +10,4 @@
 [2026-03-12T09:30:00+05:30] test(ml): add test_probs.py to verify model probabilities
 [2026-03-14T11:00:00+05:30] chore: add ml-service venv to .gitignore
 [2026-03-16T10:00:00+05:30] feat(backend): scaffold Node.js + Express backend with package.json
+[2026-03-17T14:30:00+05:30] feat(backend): setup Express server with CORS, dotenv, mongoose
