@@ -11,3 +11,4 @@
 [2026-03-14T11:00:00+05:30] chore: add ml-service venv to .gitignore
 [2026-03-16T10:00:00+05:30] feat(backend): scaffold Node.js + Express backend with package.json
 [2026-03-17T14:30:00+05:30] feat(backend): setup Express server with CORS, dotenv, mongoose
+[2026-03-18T09:15:00+05:30] feat(backend): connect MongoDB via MONGO_URI environment variable
