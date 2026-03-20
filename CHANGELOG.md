@@ -13,3 +13,4 @@
 [2026-03-17T14:30:00+05:30] feat(backend): setup Express server with CORS, dotenv, mongoose
 [2026-03-18T09:15:00+05:30] feat(backend): connect MongoDB via MONGO_URI environment variable
 [2026-03-19T11:00:00+05:30] feat(backend): create Recommendation Mongoose schema and model
+[2026-03-20T15:45:00+05:30] feat(backend): implement POST /api/recommend route
