@@ -15,3 +15,4 @@
 [2026-03-19T11:00:00+05:30] feat(backend): create Recommendation Mongoose schema and model
 [2026-03-20T15:45:00+05:30] feat(backend): implement POST /api/recommend route
 [2026-03-21T10:30:00+05:30] feat(backend): integrate axios call to ML microservice /predict
+[2026-03-22T13:00:00+05:30] feat(backend): add static expectedProfitMap for 8 major crops
