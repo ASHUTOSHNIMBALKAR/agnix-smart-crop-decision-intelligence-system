@@ -16,3 +16,4 @@
 [2026-03-20T15:45:00+05:30] feat(backend): implement POST /api/recommend route
 [2026-03-21T10:30:00+05:30] feat(backend): integrate axios call to ML microservice /predict
 [2026-03-22T13:00:00+05:30] feat(backend): add static expectedProfitMap for 8 major crops
+[2026-03-24T09:00:00+05:30] feat(backend): add getFertilizerRoadmap 3-stage helper function
