@@ -19,3 +19,4 @@
 [2026-03-24T09:00:00+05:30] feat(backend): add getFertilizerRoadmap 3-stage helper function
 [2026-03-26T11:20:00+05:30] feat(backend): add regionalBoosts map for 17 Indian states
 [2026-03-27T14:00:00+05:30] feat(backend): apply +15 confidence boost for state-native crops
+[2026-03-28T10:00:00+05:30] feat(backend): apply -15 confidence penalty for non-native crops
