@@ -21,3 +21,4 @@
 [2026-03-27T14:00:00+05:30] feat(backend): apply +15 confidence boost for state-native crops
 [2026-03-28T10:00:00+05:30] feat(backend): apply -15 confidence penalty for non-native crops
 [2026-03-29T15:30:00+05:30] feat(backend): re-sort recommendations by adjusted confidence score
+[2026-03-30T09:45:00+05:30] feat(backend): generate WhatsApp-ready text summary response
