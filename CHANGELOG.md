@@ -22,3 +22,4 @@
 [2026-03-28T10:00:00+05:30] feat(backend): apply -15 confidence penalty for non-native crops
 [2026-03-29T15:30:00+05:30] feat(backend): re-sort recommendations by adjusted confidence score
 [2026-03-30T09:45:00+05:30] feat(backend): generate WhatsApp-ready text summary response
+[2026-03-31T11:00:00+05:30] feat(backend): save enriched recommendation record to MongoDB
