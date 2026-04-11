@@ -32,3 +32,4 @@
 [2026-04-08T15:00:00+05:30] feat(frontend): add soil NPK, pH, moisture and soil type dropdowns
 [2026-04-09T09:30:00+05:30] feat(frontend): add weather inputs: temperature, humidity, rainfall
 [2026-04-10T11:45:00+05:30] feat(frontend): add water availability and season selector inputs
+[2026-04-11T14:00:00+05:30] feat(frontend): add state/region selector for regional crop boost
