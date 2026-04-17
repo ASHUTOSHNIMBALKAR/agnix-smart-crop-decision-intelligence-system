@@ -36,3 +36,4 @@
 [2026-04-13T10:00:00+05:30] feat(frontend): build ResultsDisplay component for top-3 crop cards
 [2026-04-14T13:30:00+05:30] feat(frontend): display confidence score, profit and fertilizer info
 [2026-04-16T09:00:00+05:30] feat(frontend): implement pdfGenerator.js utility with jsPDF
+[2026-04-17T11:30:00+05:30] feat(frontend): add Download PDF button to ResultsDisplay
