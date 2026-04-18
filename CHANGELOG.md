@@ -37,3 +37,4 @@
 [2026-04-14T13:30:00+05:30] feat(frontend): display confidence score, profit and fertilizer info
 [2026-04-16T09:00:00+05:30] feat(frontend): implement pdfGenerator.js utility with jsPDF
 [2026-04-17T11:30:00+05:30] feat(frontend): add Download PDF button to ResultsDisplay
+[2026-04-18T14:15:00+05:30] style(frontend): add App.css responsive mobile-first design
