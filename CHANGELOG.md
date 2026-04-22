@@ -39,3 +39,4 @@
 [2026-04-17T11:30:00+05:30] feat(frontend): add Download PDF button to ResultsDisplay
 [2026-04-18T14:15:00+05:30] style(frontend): add App.css responsive mobile-first design
 [2026-04-20T10:00:00+05:30] style(frontend): add loading spinner and disabled state on submit
+[2026-04-22T09:30:00+05:30] fix(backend): handle missing location field gracefully in recommend
