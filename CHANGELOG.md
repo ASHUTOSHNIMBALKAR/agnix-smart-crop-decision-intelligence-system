@@ -42,3 +42,4 @@
 [2026-04-22T09:30:00+05:30] fix(backend): handle missing location field gracefully in recommend
 [2026-04-24T11:00:00+05:30] fix(ml): fix feature ordering mismatch in predict endpoint
 [2026-04-26T14:30:00+05:30] chore: add check_ports.js utility to detect port conflicts
+[2026-04-28T10:00:00+05:30] refactor(backend): extract enrichment logic into separate helpers
