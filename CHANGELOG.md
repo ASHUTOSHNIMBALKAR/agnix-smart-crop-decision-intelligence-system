@@ -43,3 +43,4 @@
 [2026-04-24T11:00:00+05:30] fix(ml): fix feature ordering mismatch in predict endpoint
 [2026-04-26T14:30:00+05:30] chore: add check_ports.js utility to detect port conflicts
 [2026-04-28T10:00:00+05:30] refactor(backend): extract enrichment logic into separate helpers
+[2026-04-30T13:00:00+05:30] docs: update README with full setup guide and API reference
