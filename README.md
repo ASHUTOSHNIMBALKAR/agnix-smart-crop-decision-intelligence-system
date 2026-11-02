@@ -624,14 +624,6 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 ---
 
-## 👤 Author
-
-**Ashutosh Nimbalkar**
-- GitHub: [@ASHUTOSHNIMBALKAR](https://github.com/ASHUTOSHNIMBALKAR)
-- Project: [agnix-smart-crop-decision-intelligence-system](https://github.com/ASHUTOSHNIMBALKAR/agnix-smart-crop-decision-intelligence-system)
-
----
-
 <div align="center">
 
 **Made with ❤️ for Indian Farmers 🇮🇳**
